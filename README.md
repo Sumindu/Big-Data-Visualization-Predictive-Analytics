@@ -28,6 +28,13 @@ This project focuses on visualizing large datasets and performing predictive ana
 2. **Correlation Analysis**: Analyzed the correlation between different variables to understand their impact on traffic volume.
 3. **Modeling**: Implemented machine learning models to predict traffic volume based on historical data and external factors like weather conditions.
 
+![image](https://github.com/user-attachments/assets/3f541a13-af1e-424b-a66f-c51069f5021e)
+
+![image](https://github.com/user-attachments/assets/0e597b1e-d8f4-4b31-8ffb-12e81de5ac35)
+
+![image](https://github.com/user-attachments/assets/0f962acd-0890-498f-aaa4-e3ac43e54f7e)
+
+
 ### Kafka Integration
 
 1. **Kafka Producer**: Implemented a Kafka producer to send real-time data to a Kafka topic.
